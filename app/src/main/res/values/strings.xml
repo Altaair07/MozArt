@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MozArt</string>
+    <string name="placeholder_search">Cari museum pilihan mu!</string>
+    <string name="placeholder_bookmark">BookMark</string>
+    <string name="category_all">All</string>
+    <string name="section_favorite_place">popular </string>
+    <string name="section_utara">Jakarta Utara</string>
+    <string name="section_barat">Jakarta barat</string>
+    <string name="section_selatan">Jakarta selatan</string>
+    <string name="section_timur">Jakarta timur</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_camera">camera</string>
+    <string name="menu_favorite">favorite</string>
+    <string name="explore">Explore</string>
+
+
+</resources>
