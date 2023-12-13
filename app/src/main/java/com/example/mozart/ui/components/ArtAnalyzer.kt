@@ -8,7 +8,8 @@ import com.example.mozart.model.domain.Classification
 class ArtAnalyzer (
     private val classifier: ArtClassifier,
     private val onResult: (List<Classification>) -> Unit
-): ImageAnalysis.Analyzer{
+): ImageAnalysis.Analyzer {
+
     private var frameSkipCounter = 0
 
     override fun analyze(image: ImageProxy) {
@@ -26,4 +27,3 @@ class ArtAnalyzer (
 
     }
 }
-
