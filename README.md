@@ -1,13 +1,13 @@
 ## Team Members – CH2-PS004
 | Member                             | Student ID        | Path                 | University                                  | LinkedIn                                   |
 |------------------------------------|-------------------|----------------------|---------------------------------------------|--------------------------------------------|
-| Yoga Ciwa Patra             | M204BSY0707 | Machine Learning | Universitas Esa Unggul            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin LINK Linekdin)                        |
+| Yoga Ciwa Patra             | M204BSY0707 | Machine Learning | Universitas Esa Unggul            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin /)                        |
 | Athallah Reyhan Pramudita | M204BSY1379 | Machine Learning | Universitas Esa Unggul            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin LINK Linekdin)                 |
 | Dhiaka Shabrina Assyifa    | M007BSX0500 | Machine Learning | Universitas Dian Nuswantoro    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin LINK Linekdin)              |
 | Aryo Jembaran Muhamad Noer  | C009BSY3951 | Cloud Computing   | Universitas Gunadarma          | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin LINK Linekdin)        |
 | Risma Hasna Fauziyah       | C314BSX3698 | Cloud Computing   | Universitas Singaperbangsa Karawang | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin LINK Linekdin)                |
 | Muhammad Reflyn Andyaz Firsto | A204BSY2489 | Mobile Development | Universitas Esa Unggul            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin LINK Linekdin)        |
-| Indra                                | A271BSY2012 | Mobile Development | Universitas Multimedia Nusantara Jakarta | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([Masukkin LINK Linekdin](https://www.linkedin.com/in/indra-769602256/))                      |
+  | Indra                                | A271BSY2012 | Mobile Development | Universitas Multimedia Nusantara Jakarta | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra-769602256/)                      |
 
 
 ## MozArt
