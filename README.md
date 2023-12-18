@@ -11,7 +11,7 @@
 
 ## MozArts
 <p align="center">
-  <img src="menyusul" alt="Deskripsi Gambar" style="width:100%;">
+  <img src="" alt="MozArt Logo.jpg" style="width:100%;">
 </p>
 
 MozArt is here to explore museums and galleries in Jakarta, where you will get the experience and beauty of visiting museums and galleries directly just by using your lovely smartphone. We provide several features such as recognizing an image to give information for objects, the existence of museums around us, galleries that are currently in progress, etc. Therefore, for a better experience, MozArt provides a feature to see the objects in the museum as a trial for visitors before going directly to the museum.
