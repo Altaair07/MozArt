@@ -1,13 +1,14 @@
 ## Team Members – CH2-PS004
-| Member                             | Student ID        | Path                 | University                                  |
-|------------------------------------|-------------------|----------------------|---------------------------------------------|
-| Yoga Ciwa Patra             | M204BSY0707 | Machine Learning | Universitas Esa Unggul            |
-| Athallah Reyhan Pramudita | M204BSY1379 | Machine Learning | Universitas Esa Unggul            |
-| Dhiaka Shabrina Assyifa    | M007BSX0500 | Machine Learning | Universitas Dian Nuswantoro    |
-| Aryo Jembaran Muhamad Noer  | C009BSY3951 | Cloud Computing   | Universitas Gunadarma          |
-| Risma Hasna Fauziyah       | C314BSX3698 | Cloud Computing   | Universitas Singaperbangsa Karawang |
-| Muhammad Reflyn Andyaz Firsto | A204BSY2489 | Mobile Development | Universitas Esa Unggul            |
-| Indra                                | A271BSY2012 | Mobile Development | Universitas Multimedia Nusantara Jakarta |
+| Member                             | Student ID        | Path                 | University                                  | LinkedIn                                   |
+|------------------------------------|-------------------|----------------------|---------------------------------------------|--------------------------------------------|
+| Yoga Ciwa Patra             | M204BSY0707 | Machine Learning | Universitas Esa Unggul            | [LinkedIn](https://www.linkedin.com/in/yoga-ciwa-patra)                         |
+| Athallah Reyhan Pramudita | M204BSY1379 | Machine Learning | Universitas Esa Unggul            | [LinkedIn](https://www.linkedin.com/in/athallah-reyhan-pramudita)          |
+| Dhiaka Shabrina Assyifa    | M007BSX0500 | Machine Learning | Universitas Dian Nuswantoro    | [LinkedIn](https://www.linkedin.com/in/dhiaka-shabrina-assyifa)        |
+| Aryo Jembaran Muhamad Noer  | C009BSY3951 | Cloud Computing   | Universitas Gunadarma          | [LinkedIn](https://www.linkedin.com/in/aryo-jembaran-muhamad-noer) |
+| Risma Hasna Fauziyah       | C314BSX3698 | Cloud Computing   | Universitas Singaperbangsa Karawang | [LinkedIn](https://www.linkedin.com/in/risma-hasna-fauziyah)         |
+| Muhammad Reflyn Andyaz Firsto | A204BSY2489 | Mobile Development | Universitas Esa Unggul            | [LinkedIn](https://www.linkedin.com/in/muhammad-reflyn-andyaz-firsto) |
+| Indra                                | A271BSY2012 | Mobile Development | Universitas Multimedia Nusantara Jakarta | [LinkedIn]([https://www.linkedin.com/in/indra](https://www.linkedin.com/in/indra-769602256/))               |
+
 
 ## MozArt
 <p align="center">
