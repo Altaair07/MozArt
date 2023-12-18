@@ -64,9 +64,16 @@ Here is the [link](menyusul) of MozArts APK
   - Download the .apk file
   - Install the app and enjoy the museums
 
-## Features of iFiCam APP
+## Features of MozArt
 
-- Blom di isi bentar yak
+- Image Detection: Implement a robust image detection feature using Convolutional Neural Networks (CNN) for accurate picture analysis.
+- Classification Algorithm: Utilize a classification algorithm in conjunction with CNN to categorize detected images and provide relevant information based on the classification results.
+- Android App Development: Develop the mobile application using Kotlin and Android Studio, incorporating camera functionalities through CameraX for image scanning.
+- Integration of Machine Learning Model: Integrate the TensorFlow Lite model into the Android app, allowing seamless implementation of the machine learning model for image detection.
+- Cloud Storage for ML Model: Utilize Google Cloud Storage to store and serve the machine learning model, ensuring efficient access and updates.
+- API Connectivity: Establish an API using JavaScript (Node.js with Express.js or Flask) to connect the mobile application with the machine learning model, facilitating communication between the frontend and backend.
+- Deployment on Google Cloud Functions: Deploy the API to Google Cloud Functions for scalability and efficient handling of backend processes.
+- Backend API for Mobile App: Implement a backend API for the mobile application to handle requests and responses, enabling dynamic interactions between the frontend and backend components.
   
 ## Repository Branches
 
