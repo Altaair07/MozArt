@@ -1,5 +1,5 @@
 ## Team Members – CH2-PS004
-| Member                             | Student ID        | Path                 | University                                  | LinkedIn                                   |
+| Member                             | Student ID        | Path                 | University                                  | Contact                              |
 |------------------------------------|-------------------|----------------------|---------------------------------------------|--------------------------------------------|
 | Yoga Ciwa Patra             | M204BSY0707 | Machine Learning | Universitas Esa Unggul            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin /)                        |
 | Athallah Reyhan Pramudita | M204BSY1379 | Machine Learning | Universitas Esa Unggul            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Masukkin LINK Linekdin)                 |
