@@ -9,14 +9,14 @@
 | Muhammad Reflyn Andyaz Firsto | A204BSY2489 | Mobile Development | Universitas Esa Unggul            |
 | Indra                                | A271BSY2012 | Mobile Development | Universitas Multimedia Nusantara Jakarta |
 
-## MozArts
+## MozArt
 <p align="center">
   <img src="" alt="https://github.com/Altaair07/MozArt/blob/01f303dd92b91ba70447f647e05e0ea26324f9b5/MozArt%20Logo.jpg" style="width:100%;">
 </p>
 
 MozArt is here to explore museums and galleries in Jakarta, where you will get the experience and beauty of visiting museums and galleries directly just by using your lovely smartphone. We provide several features such as recognizing an image to give information for objects, the existence of museums around us, galleries that are currently in progress, etc. Therefore, for a better experience, MozArt provides a feature to see the objects in the museum as a trial for visitors before going directly to the museum.
 
-## MozArts App Download
+## MozArt App Download
 Here is the [link](menyusul) of MozArts APK
 
 ## About Project
