@@ -62,3 +62,14 @@ Here is the [link](menyusul) of MozArts APK
 - **Installation:**
   - Download the .apk file
   - Install the app and enjoy the museums
+
+## Features of iFiCam APP
+
+- Blom di isi bentar yak
+  
+## Repository Branches
+
+In our project is divided into four branches:
+  - [Machine Learning](https://github.com/Altaair07/MozArt/blob/Machine-Learning/README.md)
+  - [Cloud Computing](https://github.com/Altaair07/MozArt/blob/Cloud-Computing/README.md)
+  - [Mobile Development](https://github.com/Altaair07/MozArt/blob/Mobile-Development/README.md)
