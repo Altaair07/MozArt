@@ -27,8 +27,8 @@ After that we got result like this :
 ### Metadata Writer
 | Library      | Version |
 | ------------ | ------- |
-| Tensorflow   | 2.15.0  |
-|         | 2.15.0  |
+| Tensorflow   | 2.8.0  |
+| Tflite_support| 0.4.4  |
 
 ## CNN
 
