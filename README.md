@@ -35,7 +35,7 @@ Click on the image to download the MozArt APK.
   - Google Colab
   - Matplotlib
   - Visual Studio Code (VSC)
-  - Tensorflor Lite
+  - Tensorflow Lite
 
 - **Mobile Development:**
   - Figma
