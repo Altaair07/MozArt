@@ -10,12 +10,12 @@ After that we got result like this :
 
 | Library      | Version |
 | ------------ | ------- |
-| Tensorflow   |         |
-| Keras        |         |
-| Matplotlib   |         |
-| NumPy        |         |
-| Pandas       |         |
-| Scikit-learn |         |
+| Tensorflow   | 2.15.0  |
+| Keras        | 2.15.0  |
+| Matplotlib   | 3.7.1   |
+| NumPy        | 1.23.5  |
+| Pandas       | 3.7.1   |
+| Scikit-learn | 1.2.2   |
 
 ## CNN
 
