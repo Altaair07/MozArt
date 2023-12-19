@@ -12,7 +12,7 @@ After that we got result like this :
 ![result3](https://github.com/Altaair07/MozArt/assets/108671086/583f98d1-5caf-499c-ae1e-0aaa2055108a)
 
 
-### Function Dependencies![Uploading result.PNG…]()
+### Function Dependencies
 
 
 | Library      | Version |
