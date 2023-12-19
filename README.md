@@ -5,8 +5,15 @@ In this project, we have developed a model designed to detect images and identif
 And than we train our model with 100 epoch and 10 epoch for fine tuning
 
 After that we got result like this :
+![result](https://github.com/Altaair07/MozArt/assets/108671086/f30b1442-a903-47be-a821-70b132f500d9)
 
-### Function Dependencies
+
+![result 2](https://github.com/Altaair07/MozArt/assets/108671086/ac974b53-5b62-4e2a-8afd-584e25604422)
+![result3](https://github.com/Altaair07/MozArt/assets/108671086/583f98d1-5caf-499c-ae1e-0aaa2055108a)
+
+
+### Function Dependencies![Uploading result.PNG…]()
+
 
 | Library      | Version |
 | ------------ | ------- |
