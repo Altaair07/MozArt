@@ -14,7 +14,7 @@
 - MVVM Architecture
 
 
-## App Architexture
+## App Architecture
 
 
 ## Getting Started
