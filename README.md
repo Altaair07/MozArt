@@ -17,6 +17,12 @@ After that we got result like this :
 | Pandas       | 3.7.1   |
 | Scikit-learn | 1.2.2   |
 
+### Metadata Writer
+| Library      | Version |
+| ------------ | ------- |
+| Tensorflow   | 2.15.0  |
+|         | 2.15.0  |
+
 ## CNN
 
 <p align="left"> A basic model is built using Convolutional Neural Networks (CNN) as a foundation. CNN is used to recognize complex visual patterns in images, helping in the classification and recognition of objects in images at the Basoeki Abdullah Museum.</p>
