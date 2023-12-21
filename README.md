@@ -63,7 +63,7 @@ Click on the image to download the MozArt APK.
   - Camera
 
 - **Installation:**
-  - Download the .apk file
+  - Download the .apk file from Drive [![MozArts Logo](https://github.com/Altaair07/MozArt/blob/b8fe31b59b5e71224092634a040a43ff4c90f005/MozArt%20Logo%20small.jpg)](https://drive.google.com/drive/folders/1ke2RslABL2mPb10eHTsabbJ3AnFnadme?usp=sharing)
   - Install the app and enjoy the museums
 
 # MozArt App Features
