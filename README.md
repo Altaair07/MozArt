@@ -22,7 +22,7 @@
 | Asynchronous Programming   | Kotlin Coroutines                   |
 | UI Development             | Jetpack Compose                     |
 | Navigation                 | Hilt Navigation Compose             |
-
+| Database Storage           | Room                                |
 
 
 ## App Architecture
