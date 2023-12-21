@@ -18,7 +18,7 @@
 MozArt is here to explore museums and galleries in Jakarta, where you will get the experience and beauty of visiting museums and galleries directly just by using your lovely smartphone. We provide several features such as recognizing an image to give information for objects, the existence of museums around us, galleries that are currently in progress, etc. Therefore, for a better experience, MozArt provides a feature to see the objects in the museum as a trial for visitors before going directly to the museum.
 
 ## MozArt App Download
-[![MozArts Logo](https://github.com/Altaair07/MozArt/blob/b8fe31b59b5e71224092634a040a43ff4c90f005/MozArt%20Logo%20small.jpg)](https://drive.google.com/drive/folders/1rN99C86Eoq9Fb_bg20-iDvqVDm3MDIfI) 
+[![MozArts Logo](https://github.com/Altaair07/MozArt/blob/b8fe31b59b5e71224092634a040a43ff4c90f005/MozArt%20Logo%20small.jpg)](https://drive.google.com/drive/folders/1ke2RslABL2mPb10eHTsabbJ3AnFnadme?usp=sharing) 
 Click on the image to download the MozArt APK.
 
 
