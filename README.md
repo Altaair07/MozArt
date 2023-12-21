@@ -7,8 +7,9 @@ After that we got result like this :
 ![result](https://github.com/Altaair07/MozArt/assets/108602382/c3dbff80-3ec9-44a7-90a3-c381b6a2d388)
 
 
-![result 2](https://github.com/Altaair07/MozArt/assets/108671086/ac974b53-5b62-4e2a-8afd-584e25604422)
-![result3](https://github.com/Altaair07/MozArt/assets/108671086/583f98d1-5caf-499c-ae1e-0aaa2055108a)
+![result(1)](https://github.com/Altaair07/MozArt/assets/108602382/1528dbfb-a4c0-48ee-9294-f728ccf31178)
+
+![result(2)](https://github.com/Altaair07/MozArt/assets/108602382/adbcbc4d-8525-47a7-ad4e-128f60bd156b)
 
 ### Function Dependencies
 
