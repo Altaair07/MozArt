@@ -58,7 +58,7 @@ MozArt built using MVVM Architecture
 
 ## MozArt Camera X for Scan Preview(Only Museum Basoeki Abdullah)
 <p align="center">
-  <img src="https://github.com/Altaair07/MozArt/blob/a36a27fc662af7f8b3d6bc0a8a56a0025dc5da84/Camerax.jpg" alt="MozArt Camera">
+  <img src="https://github.com/Altaair07/MozArt/blob/8b9f39e9ee0504684ab27db378041cb2cdf40e81/CameraTest.jpg" alt="MozArt Camera">
     </p>
 
 Explore, Engage, Enjoy! MozArt is designed to provide a seamless and enriching museum experience. Whether you're a museum enthusiast or a casual visitor, MozArt has something special for everyone.
