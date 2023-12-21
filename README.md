@@ -29,17 +29,17 @@ nodemon start
 
 - Response
     ```json
-  {
-      id: "jakarta-barat",
-      data: [
+    {
+      "id": "jakarta-barat",
+      "data": [
           {
           ...
           }
       ]
     },
       {
-      id: "jakarta-pusat",
-      data: [
+      "id": "jakarta-pusat",
+      "data": [
           {
           ...
           }
@@ -58,15 +58,15 @@ nodemon start
 - Response
     ```json
     {
-      id: "jakarta-pusat",
-      data: [
+      "id": "jakarta-pusat",
+      "data": [
         {
-          museumName: "Galeri Nasional",
-          id: 1,
-          image: "...",
-          description: "...",
-          alamat: "...",
-          items: [
+          "museumName": "Galeri Nasional",
+          "id": 1,
+          "image": "...",
+          "description": "...",
+          "alamat": "...",
+          "items": [
           ...
           ]
         }
@@ -84,25 +84,25 @@ nodemon start
 - Response
     ```json
     {
-      id: "jakarta-pusat",
-      data: [
+      "id": "jakarta-pusat",
+      "data": [
         {
-          museumName: "Galeri Nasional",
-          id: 1,
-          image: "...",
-          description: "...",
-          alamat: "...",
-          items: [
+          "museumName": "Galeri Nasional",
+          "id": 1,
+          "image": "...",
+          "description": "...",
+          "alamat": "...",
+          "items": [
           ...
           ]
         },
         {
-          museumName: "Museum Kebangkitan Nasional Jakarta",
-          id: 1,
-          image: "...",
-          description: "...",
-          alamat: "...",
-          items: [
+          "museumName": "Museum Kebangkitan Nasional Jakarta",
+          "id": 1,
+          "image": "...",
+          "description": "...",
+          "alamat": "...",
+          "items": [
           ...
           ]
         },
