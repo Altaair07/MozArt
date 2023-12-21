@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Altaair07/MozArt/blob/8bfbd370c76c3572a3cb249c5609b2eb99c69947/Mobile.jpg" alt="MozArt View">
+  <img src="https://github.com/Altaair07/MozArt/blob/86d00d9ab0f5763ac1dfc0d38f1d96ece78c8fea/Tampilan.jpg" alt="MozArt View">
     </p>
 
 
