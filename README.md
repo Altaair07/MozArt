@@ -24,7 +24,7 @@ Click on the image to download the MozArt APK.
 
 ## About Project
 <div align="center">
-  <img src="https://github.com/Altaair07/MozArt/blob/95372dcbd534bf06f91469cab3896249e7827bba/Demo.gif"/>
+  <img src="https://github.com/Altaair07/MozArt/blob/95372dcbd534bf06f91469cab3896249e7827bba/Demo.gif" width="400"/>
 </div>
 
 ## Built with
