@@ -42,5 +42,5 @@ The implementation of transfer learning is carried out using InceptionV3, a well
 ## Training, Fine-Tune and Training configurations
 
 <p align="justify">
-The model achieved 95% accuracy with an exceptional accuracy validation rate. The model was then implemented in TensorFlow format and converted to a tflite model for ease of use on lighter platforms such as mobile devices. In addition, the model is quantified to minimise its size, while important metadata is embedded in the model for additional information.
+The model achieved 95% accuracy with an exceptional accuracy validation rate. The model was then implemented in TensorFlow format and converted to a tflite model for ease of use on lighter platforms such as mobile devices. While important metadata is embedded in the model for additional information.
 </p>
